@@ -1,4 +1,8 @@
 ﻿远程仓库测试
 nothing
+<<<<<<< HEAD
 you know
 duduli
+=======
+devtest
+>>>>>>> dev
